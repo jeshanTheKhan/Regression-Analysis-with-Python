@@ -1,6 +1,7 @@
-** Project Title **
+# Project Title 
 
-[Consider replacing this with a clear and descriptive title for your project]
+Regression Analysis with Python
+
 
 **Introduction**
 
