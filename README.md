@@ -3,7 +3,7 @@
 Regression Analysis with Python
 
 
-**Introduction**
+## Introduction
 
 This repository contains code for a California housing price prediction model using linear regression. The model explores data loading, preprocessing, training, evaluation, and visualization.
 
